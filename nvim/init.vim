@@ -1,6 +1,8 @@
 call plug#begin('~/.config/nvim/bundle')
 Plug 'dracula/vim', {'as':'dracula'}
 Plug 'posva/vim-vue'
+Plug 'scrooloose/nerdtree'
+Plug 'scrooloose/nerdcommenter'
 call plug#end()
 
 syntax on
