@@ -3,6 +3,7 @@ Plug 'dracula/vim', {'as':'dracula'}
 Plug 'posva/vim-vue'
 Plug 'scrooloose/nerdtree'
 Plug 'scrooloose/nerdcommenter'
+Plug 'tmux-plugins/vim-tmux'
 call plug#end()
 
 syntax on
